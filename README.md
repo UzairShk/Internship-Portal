@@ -46,16 +46,16 @@ The system includes three key roles:
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page
-![Home Page](./screenshots/homepage.jpg)
+![Home Page](./Screenshots/homepage.jpg)
 
 ### 👨‍🎓 Student Profile
-![Student Profile](./screenshots/profile.jpg)
+![Student Profile](./Screenshots/profile.jpg)
 
 ### 🏢 Company Detials
-![Company Details](./screenshots/Company Details.jpg)
+![Company Details](./Screenshots/company_details.jpg)
 
 ### 🛠️ Admin Panel
-![Admin Panel](./screenshots/Admin Dashboard.jpg)
+![Admin Panel](./Screenshots/admin_dashboard.jpg)
 
 
 ## 📂 Project Structure
